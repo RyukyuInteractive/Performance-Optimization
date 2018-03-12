@@ -5,9 +5,11 @@
 ### Article 
 
 1. Image Optimization
+
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization
 
 2. Automating image optimization
+
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/
 
 ### Recommend Tool:
