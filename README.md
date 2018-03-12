@@ -20,6 +20,5 @@ https://imageoptim.com/mac
 ## CSS Optimization 
 
 
-
 ## JS Optimization
 
